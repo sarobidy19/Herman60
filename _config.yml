@@ -1,0 +1,185 @@
+title: GRASS 2026 #Herman 60 - association schemes and representation theory
+preposition: ''
+description: " "
+
+baseurl: "/Herman60" # the subpath of your site, e.g. /blog
+url: "https://sarobidyraz.com" # the base hostname & protocol for your site, e.g. https://example.com
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+
+# Exclude from processing
+exclude:
+  - .github/
+  - venv/
+  - README.md
+  - LICENSE.md
+  - REDISTRIBUTED.md
+  - screenshot.png
+  - jekyll-theme-conference.gemspec
+  - purgecss.config.js
+  - _config.example.yml
+
+# Collections and their defaults
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:title/
+  speakers:
+    output: true
+    permalink: /:collection/:title/
+  rooms:
+    output: true
+    permalink: /:collection/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: speaker
+  - scope:
+      path: ""
+      type: rooms
+    values:
+      layout: room
+
+# Theme default values
+
+remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
+
+conference:
+  lang: en
+  show_errors: True
+
+  # Timezone
+  tz: "-04:00"
+
+  link_preview:
+    disable: false
+
+    # Navigation bar
+  navigation:
+    #logo:
+     # name: Digital Society Switzerland
+      # img: ''
+      #url: 'https://digitale-gesellschaft.ch/'
+    breakpoint: md
+    links:
+      #- name: Program
+      #  relative_url: /program/
+      #- name: Talks
+      #  relative_url: /talks/
+      - name: Participants
+        relative_url: /speakers/
+      #- name: Location
+      #  relative_url: /location/
+      #- name: Photos
+      #  relative_url: /photos/
+
+  speakers:
+    show_firstname: true
+
+  location:
+    url: '/location'
+    map: true
+
+  program:
+    url: '/program'
+    time_steps: 30
+    show_alltimes: true
+
+  # Main landing page
+  main:
+    # logo:
+    #   img: ''
+    links:
+#      - name: Program
+#        relative_url: /program/
+#      - name: How to get there
+#        relative_url: /location/
+      #- name: Tickets
+      #  disabled: true
+      #  absolute_url: ''
+
+  # Information boxes
+  #info_bars:
+  #  - title: Lunch place <a href="https://www.google.com/maps/dir/45.3823243,-75.6974782/Teraanga+Commons+Dining+Hall,+Teraanga+Commons,+1125+Colonel+By+Dr+3rd+floor,+Ottawa,+ON+K1S+5B6/@45.3847402,-75.6979492,17z/data=!3m1!5s0x4cce05d90ff18ead:0x7297c82694750cf8!4m9!4m8!1m0!1m5!1m1!1s0x4cce051392b7aef7:0x5da7d81cef61eb0d!2m2!1d-75.697282!2d45.3866971!3e2?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D"> Teraanga Commons Dining Hall </a>.
+  #    color: primary
+  #    main_only: false
+
+    #- text: This is just some random content for demonstration purposes.
+    #  color: warning
+    #  pages_only: true
+
+  # Live indications
+  live:
+    date: 21.11.2026
+    timezone: GMT-9
+    stop:       240  # in minutes
+    streaming:
+      enable: false
+      pause:     60  # in minutes
+      prepend:    5  # in minutes
+      extend:     5  # in minutes
+    demo:
+      enable: false
+      duration: 300  # in seconds
+      pause:     10  # in seconds
+
+  talks:
+    # Talk categories
+    main_categories:
+      - name: Plenary
+        color: warning
+      - name: Contributed
+        color: success
+      - name: Break
+        color: info
+
+    # Hide icons on talk overview page
+    hide_icons: false
+
+  speakers:
+    # Show first and last name
+    show_firstname: true
+
+  location:
+    # Disable links to locations
+    hide: false
+    # URL of location / room overview page
+    url: '/location'
+    # Main page title shown on location/room navigation bar
+    navbar_title: 'Location'
+    # Show map on location main page.  Set `map: false` if you don't want to
+    # display it.
+    map:
+      # Initial map center point
+      home_coord: 45.38212053136539, -75.6976344052204
+      # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
+      # The following do match the Bootstrap design not too badly:
+      #   - Thunderforest.Neighbourhood
+      #   - Esri.WorldTopoMap
+      map_provider: "OpenStreetMap.Mapnik"
+      default_zoom: 17
+
+
+  program:
+    # URL of program page
+    url: '/program'
+
+    # Time steps in program table
+    time_steps: 30 # in minutes
+
+    # Show intermediary time steps (next to full hours)
+    show_alltimes: true
+
+plugins:
+  - jekyll-include-cache

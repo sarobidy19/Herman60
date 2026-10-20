@@ -1,0 +1,128 @@
+days:
+- name: Saturday
+  abbr: Saturday
+  date: 2025-05-24
+  rooms:
+  - name: HP 4351
+    talks:
+      - name: Recent trends in random walks on graphs
+        time_start: '9:00'
+        time_end: '10:00'
+      - name: Coffee break
+        time_start: '10:00'
+        time_end: '10:30'
+      - name: s-pair state transfer on graphs
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: Avoiding Root Coincidences in the Weighted Matching Polynomial
+        time_start: '11:00'
+        time_end: '11:30'
+      - name: Edge-Disjoint Linkage in Infinite Graphs 
+        time_start: '11:30'
+        time_end: '12:00'
+      - name: Lunch
+        time_start: '12:00'
+        time_end: '14:00'
+      - name: Superspace quasisymmetric harmonics
+        time_start: '14:00'
+        time_end: '14:30'
+      - name: Resonance Varieties of Schubert Matroids
+        time_start: '14:30'
+        time_end: '15:00'
+      - name: Differential transcendence of walks on self similar walks
+        time_start: '15:00'
+        time_end: '15:30'
+      - name: Soltes problem almost resolved? 
+        time_start: '15:30'
+        time_end: '16:00'
+      - name: Spectral Analysis of Eccentricity Matrix for One-Point-Corona of Graphs
+        time_start: '16:00'
+        time_end: '16:30'
+
+      
+  - name: HP 5345
+    talks:
+      - name: Coffee break
+        time_start: '10:00'
+        time_end: '10:30'
+      - name: Probabilistic Bijections for Non-Attacking Fillings
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: Representations and  Linear Extensions of (Unit) Interval Orders
+        time_start: '11:00'
+        time_end: '11:30'
+      - name: The amount and type of structure of a function in terms of its small images
+        time_start: '11:30'
+        time_end: '12:00'
+      - name: Lunch 
+        time_start: '12:00'
+        time_end: '14:00'
+      - name: Constructions of Cover-free families on Paths and Cycles using a mixed-radix Gray code
+        time_start: '14:00'
+        time_end: '14:30'
+      - name: What theorems may come From clues in finite geometry to a construction of a CA$(3q^4-2; 4, \frac{q^2+1}{2}, q)$
+        time_start: '14:30'
+        time_end: '15:00'
+      - name: Satisfying random linear equations over a commutative ring
+        time_start: '15:00'
+        time_end: '15:30'
+      - name: An Acyclic Spin on the Classical Ramsey Numbers
+        time_start: '15:30'
+        time_end: '16:00'
+        
+- name: Sunday
+  abbr: Sunday
+  date: 2025-05-25
+  rooms: 
+    - name: HP 4351
+      talks:
+      - name: An introduction to iterating functions over finite sets
+        time_start: '9:00'
+        time_end: '10:00'
+      - name: Coffee break
+        time_start: '10:00'
+        time_end: '10:30'
+      - name: How to build the factor-critical partial Steiner triple system of your dreams 
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: Designs of perfect matchings
+        time_start: '11:00'
+        time_end: '11:30'
+      - name: Lunch
+        time_start: '11:30'
+        time_end: '13:30'
+      - name: The Oberwolfach Problem ':' New Directions?
+        time_start: '13:30'
+        time_end: '14:30'
+      - name: A complete solution to the generalized HOP with one large table 
+        time_start: '14:30'
+        time_end: '15:00'
+      - name: Erdős-Ko-Rado theorems in polynomials over finite fields
+        time_start: '15:00'
+        time_end: '15:30'
+      - name: Coffee break
+        time_start: '15:30'
+        time_end: '15:40'
+    - name: HP 5345
+      talks:
+      - name: Coffee break
+        time_start: '10:00'
+        time_end: '10:30'
+      - name: Critical graphs for excluding an induced even cycle
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: Planarity and dimension 
+        time_start: '11:00'
+        time_end: '11:30'
+      - name: Lunch
+        time_start: '11:30'
+        time_end: '13:30'
+      - name: Embedding decision trees to solve bivariate recurrence relations 
+        time_start: '14:30'
+        time_end: '15:00'
+      - name: Asymptotics of the number of lattice points in the transportation polytope 
+        time_start: '15:00' 
+        time_end: '15:30'
+      - name: Coffee break 
+        time_start: '15:30'
+        time_end: '15:35'
