@@ -203,7 +203,7 @@ p {
 * <p>  <a href="https://sites.google.com/view/hermiemonterde/home"> Hermie Monterde, University of Regina </a> </p>
 * <p>  <a href="https://sarobidyraz.com/"> Sarobidy Razafimahatratra, University of Lethbridge </a> </p>
 
-For any questions, please email <a href="mailto:ssachan@yorku.ca">roghayeh.maleki@uregina.ca</a>.
+For any questions, please email <a href="mailto:roghayeh.maleki@uregina.ca">roghayeh.maleki@uregina.ca</a>.
 
 GRASS 2026 acknowledges the support of the Department of Mathematics and Statistics at <a href="https://www.uregina.ca/science/mathstat/index.html"> University of Regina </a>.
 
