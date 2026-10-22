@@ -185,7 +185,7 @@ p {
   <h2> Registration</h2>
   </div>
 
-  <p> There is no registration fee, but we would like to have an estimate of the participants for logistical purposes. Please <a href = "https://docs.google.com/forms/d/e/1FAIpQLScgZNVyOTRo5LZcub_GjRz7WowdnUuvQB-nAiVcBvtzheOiVA/viewform?usp=publish-editor"> register here </a> by <b> November 18, 2026</b> if you would like to attend the conference.</p>
+  <p> There is no registration fee, but we would like to have an estimate of the participants for logistical purposes. Please <a href = "https://docs.google.com/forms/d/e/1FAIpQLScgZNVyOTRo5LZcub_GjRz7WowdnUuvQB-nAiVcBvtzheOiVA/viewform?usp=publish-editor"> register here </a> by <b> November 20, 2026</b> if you would like to attend the conference.</p>
 
 
 <!--
