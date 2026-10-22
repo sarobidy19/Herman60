@@ -70,9 +70,9 @@ p {
 </div>
 
 <div class="speaker-card">
-  <div class="speaker-image-container-main">
-    <img src="{{site.baseurl}}/assets/img/herman-a.jpg" alt="Speaker 1 Name">
-  </div>
+    <div class="speaker-grid">
+      <img src="{{site.baseurl}}/assets/img/herman-a.jpg" alt="Speaker 1 Name">
+    </div>
 </div>
 
 <p> <br> This is a one-day conference dedicated to the celebration of Allen Herman's 60th birthday. GRASS 2026 is a hybrid conference which will be held in person at the University of Regina, and virtually on Zoom. </p>
