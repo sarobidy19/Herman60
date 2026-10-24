@@ -111,10 +111,26 @@ p {
 
     <div class="speaker-card">
       <div class="speaker-image-container">
-        <img src="{{site.baseurl}}/assets/img/" alt="Speaker 3">
+        <img src="{{site.baseurl}}/assets/img/" alt="">
       </div>
-      <h3><td style="text-align:center"><a href="#">TBA</a></td></h3>
-      <p>TBA</p>
+      <h3><td style="text-align:center"><a href="https://cris.bgu.ac.il/en/persons/mikhael-muzychuk/">Misha Muzychuk</a></td></h3>
+      <p>Ben-Gurion University of the Negev</p>
+    </div>
+
+    <div class="speaker-card">
+      <div class="speaker-image-container">
+        <img src="{{site.baseurl}}/assets/img/fig32.jpg" alt="Speaker 2 Name">
+      </div>
+      <h3><td style="text-align:center"><a href="https://sarobidyraz.com/">Sarobidy Razafimahatratra</a></td></h3>
+      <p>University of Lethbridge</p>
+    </div>
+
+    <div class="speaker-card">
+      <div class="speaker-image-container">
+        <img src="{{site.baseurl}}/assets/img/Gurmail.jpg" alt="">
+      </div>
+      <h3><td style="text-align:center"><a href="https://pages.cs.wisc.edu/~gurmail-singh/Gurmail.html">Gurmail Singh</a></td></h3>
+      <p>Univesity of Wisconsin-Madison</p>
     </div>
 
     <div class="speaker-card">
@@ -141,23 +157,6 @@ p {
       </div>
       <h3><td style="text-align:center"><a href="#">TBA</a></td></h3>
       <p>TBA</p>
-    </div>
-
-
-    <div class="speaker-card">
-      <div class="speaker-image-container">
-        <img src="{{site.baseurl}}/assets/img/fig32.jpg" alt="Speaker 2 Name">
-      </div>
-      <h3><td style="text-align:center"><a href="https://sarobidyraz.com/">Sarobidy Razafimahatratra</a></td></h3>
-      <p>University of Lethbridge</p>
-    </div>
-
-    <div class="speaker-card">
-      <div class="speaker-image-container">
-        <img src="{{site.baseurl}}/assets/img/Gurmail.jpg" alt="Speaker 3 Name">
-      </div>
-      <h3><td style="text-align:center"><a href="https://pages.cs.wisc.edu/~gurmail-singh/Gurmail.html">Gurmail Singh</a></td></h3>
-      <p>Univesity of Wisconsin-Madison</p>
     </div>
 
     <div class="speaker-card">
