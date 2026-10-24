@@ -91,6 +91,14 @@ p {
       <p>TBA</p>
     </div>
 
+    <div class="speaker-card">
+      <div class="speaker-image-container">
+        <img src="{{site.baseurl}}/assets/img/IMG_7907.jpeg" alt="Speaker 3 Name">
+      </div>
+      <h3><td style="text-align:center"><a href="https://search.asu.edu/profile/4827755">Neha Joshi</a></td></h3>
+      <p>Arizona State University</p>
+    </div>
+
 
     <div class="speaker-card">
       <div class="speaker-image-container">
@@ -125,14 +133,6 @@ p {
       </div>
       <h3><td style="text-align:center"><a href="https://users.wpi.edu/~martin/">Bill Martin</a></td></h3>
       <p>Worcester Polytechnic Institute</p>
-    </div>
-
-    <div class="speaker-card">
-      <div class="speaker-image-container">
-        <img src="{{site.baseurl}}/assets/img/njoshi39.png" alt="Speaker 3 Name">
-      </div>
-      <h3><td style="text-align:center"><a href="https://search.asu.edu/profile/4827755">Neha Joshi</a></td></h3>
-      <p>Arizona State University</p>
     </div>
 
     <div class="speaker-card">
