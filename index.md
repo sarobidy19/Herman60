@@ -135,6 +135,14 @@ p {
 
     <div class="speaker-card">
       <div class="speaker-image-container">
+        <img src="{{site.baseurl}}/assets/img/Paul.webp" alt="Speaker 1 Name">
+      </div>
+      <h3><td style="text-align:center"><a href="https://www.math.wisc.edu/staff/terwilliger-paul/">Paul Terwilliger</a> </td></h3>
+      <p>University of Wisconsin-Madison</p>
+    </div>
+
+    <div class="speaker-card">
+      <div class="speaker-image-container">
         <img src="{{site.baseurl}}/assets/img/" alt="Speaker 4">
       </div>
       <h3><td style="text-align:center"><a href="#">TBA</a></td></h3>
@@ -157,14 +165,6 @@ p {
       </div>
       <h3><td style="text-align:center"><a href="#">TBA</a></td></h3>
       <p>TBA</p>
-    </div>
-
-    <div class="speaker-card">
-      <div class="speaker-image-container">
-        <img src="{{site.baseurl}}/assets/img/Paul.webp" alt="Speaker 1 Name">
-      </div>
-      <h3><td style="text-align:center"><a href="https://www.math.wisc.edu/staff/terwilliger-paul/">Paul Terwilliger</a> </td></h3>
-      <p>University of Wisconsin-Madison</p>
     </div>
 
     -->
