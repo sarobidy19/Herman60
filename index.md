@@ -65,7 +65,7 @@ p {
   <h2>
     In Honour of Dr. Allen Herman’s 60th Birthday
     <br>
-    Date: November 28, 2026
+    November 28, 2026 - (8:30 AM - 5:00 PM CST)
   </h2>
 </div>
 
