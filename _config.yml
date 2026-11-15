@@ -60,7 +60,7 @@ conference:
   show_errors: True
 
   # Timezone
-  tz: "-04:00"
+  tz: "-06:00"
 
   link_preview:
     disable: false
@@ -79,8 +79,8 @@ conference:
       #  relative_url: /talks/
       - name: Participants
         relative_url: /speakers/
-      #- name: Location
-      #  relative_url: /location/
+      - name: Location
+        relative_url: /location/
       #- name: Photos
       #  relative_url: /photos/
 
@@ -121,9 +121,9 @@ conference:
 
   # Live indications
   live:
-    date: 21.11.2026
-    timezone: GMT-9
-    stop:       240  # in minutes
+    date: 29.11.2026
+    timezone: GMT-6
+    stop:       60  # in minutes
     streaming:
       enable: false
       pause:     60  # in minutes
@@ -137,9 +137,9 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Plenary
+      - name: Invited
         color: warning
-      - name: Contributed
+      - name: Lightning
         color: success
       - name: Break
         color: info
@@ -162,13 +162,13 @@ conference:
     # display it.
     map:
       # Initial map center point
-      home_coord: 45.38212053136539, -75.6976344052204
+      home_coord: 50.440030686451294, -104.61063655449695
       # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
       # The following do match the Bootstrap design not too badly:
       #   - Thunderforest.Neighbourhood
       #   - Esri.WorldTopoMap
       map_provider: "OpenStreetMap.Mapnik"
-      default_zoom: 17
+      default_zoom: 19
 
 
   program:

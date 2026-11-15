@@ -1,8 +1,6 @@
---- 
+---
 name: Roghayeh  Maleki  
 first_name: Roghayeh  
-last_name: Maleki (University of Regina) 
+last_name: Maleki (University of Regina)
 hide: true 
---- 
- 
- 
+---

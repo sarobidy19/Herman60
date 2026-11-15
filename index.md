@@ -83,13 +83,7 @@ p {
   <div class="speaker-grid">
 
 
-    <div class="speaker-card">
-      <div class="speaker-image-container">
-        <img src="{{site.baseurl}}/assets/img/" alt="Speaker 1">
-      </div>
-      <h3><td style="text-align:center"><a href="#">TBA</a></td></h3>
-      <p>TBA</p>
-    </div>
+
 
     <div class="speaker-card">
       <div class="speaker-image-container">
@@ -141,6 +135,8 @@ p {
       <p>University of Wisconsin-Madison</p>
     </div>
 
+    <!--
+
     <div class="speaker-card">
       <div class="speaker-image-container">
         <img src="{{site.baseurl}}/assets/img/" alt="Speaker 4">
@@ -149,7 +145,13 @@ p {
       <p>TBA</p>
     </div>
 
-    <!--
+    <div class="speaker-card">
+      <div class="speaker-image-container">
+        <img src="{{site.baseurl}}/assets/img/" alt="Speaker 1">
+      </div>
+      <h3><td style="text-align:center"><a href="#">TBA</a></td></h3>
+      <p>TBA</p>
+    </div>
 
     <div class="speaker-card">
       <div class="speaker-image-container">

@@ -2,9 +2,6 @@
 layout: location
 ---
 
-All talks will be at School of Mathematics and Statistics, 4302 Herzberg Laboratories, Carleton University.
+GRASS 2026 will be held at the College Avenue Campus of the University of Regina. All taks will be in CB 132.
 
-How to get to the OCW venue!
-
-
-
+How to get to the GRASS 2026 venue!
