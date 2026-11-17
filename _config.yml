@@ -79,6 +79,8 @@ conference:
       #  relative_url: /talks/
       - name: Participants
         relative_url: /speakers/
+      - name: Poster
+        relative_url: /poster
       - name: Location
         relative_url: /location/
       #- name: Photos
