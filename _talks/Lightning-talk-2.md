@@ -2,7 +2,7 @@
 name: Lightning talks 2
 speakers:
  - Adebola Evelyn  Omotoye
- - Fe 
+ - Douglas Farenick
 categories:
  - Lightning
 ---
