@@ -186,7 +186,7 @@ p {
   <h2> Registration</h2>
   </div>
 
-  <p> There is no registration fee, but we would like to have an estimate of the participants for logistical purposes. Please <a href = "https://docs.google.com/forms/d/e/1FAIpQLScgZNVyOTRo5LZcub_GjRz7WowdnUuvQB-nAiVcBvtzheOiVA/viewform?usp=publish-editor"> register here </a> by <b> November 20, 2026</b> if you would like to attend the conference.</p>
+  <p> There is no registration fee, but we would like to have an estimate of the participants for logistical purposes. Please <a href = "#"> register here </a> by <b> November 20, 2026</b> if you would like to attend the conference.</p>
 
 
 <!--
@@ -194,6 +194,8 @@ p {
 * <p>  <u> Abstracts: </u>  <s>April 24, 2025</s> </p>
 * <p>  <u> Deadline for funding:</u> <s>April 24, 2025</s></p>
 * <p>  <u> Notification of funding:</u>  <s> May 1, 2025 </s></p>
+
+https://docs.google.com/forms/d/e/1FAIpQLScgZNVyOTRo5LZcub_GjRz7WowdnUuvQB-nAiVcBvtzheOiVA/viewform?usp=publish-editor
 -->
 
 <div class="speaker-section">
