@@ -105,7 +105,7 @@ p {
 
     <div class="speaker-card">
       <div class="speaker-image-container">
-        <img src="{{site.baseurl}}/assets/img/" alt="">
+        <img src="{{site.baseurl}}/assets/img/Misha26-cropped.png" alt="">
       </div>
       <h3><td style="text-align:center"><a href="https://cris.bgu.ac.il/en/persons/mikhael-muzychuk/">Misha Muzychuk</a></td></h3>
       <p>Ben-Gurion University of the Negev</p>

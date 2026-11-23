@@ -140,11 +140,13 @@ conference:
     # Talk categories
     main_categories:
       - name: Invited
-        color: warning
-      - name: Lightning
         color: success
+      - name: Lightning
+        color: warning
       - name: Break
         color: info
+      - name: Plenary
+        color: danger
 
     # Hide icons on talk overview page
     hide_icons: false
