@@ -1,8 +1,7 @@
---- 
-name: Misha-talk 
-speakers: 
+---
+name: TBA
+speakers:
  - Misha Muzychuk  
 categories:
  - Invited
---- 
- 
+---
