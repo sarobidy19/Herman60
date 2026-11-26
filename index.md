@@ -199,6 +199,13 @@ https://docs.google.com/forms/d/e/1FAIpQLScgZNVyOTRo5LZcub_GjRz7WowdnUuvQB-nAiVc
 -->
 
 <div class="speaker-section">
+  <h2>Program</h2>
+</div>
+
+The conference booklet can be found in [here]({{site.baseurl}}/program/). 
+
+
+<div class="speaker-section">
   <h2>Organizers</h2>
 </div>
 

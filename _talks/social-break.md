@@ -1,5 +1,5 @@
 ---
-name: Social gathering
+name: Social event
 categories:
   - Break
 hide: true
