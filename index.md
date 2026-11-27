@@ -202,7 +202,7 @@ https://docs.google.com/forms/d/e/1FAIpQLScgZNVyOTRo5LZcub_GjRz7WowdnUuvQB-nAiVc
   <h2>Program</h2>
 </div>
 
-The conference booklet can be found in [here]({{site.baseurl}}/program/). 
+The program can be accessed [here]({{site.baseurl}}/program/), and the conference booklet can be found in [here]({{site.baseurl}}/assets/pdfs/Booklet-GRASS2026.pdf). 
 
 
 <div class="speaker-section">
