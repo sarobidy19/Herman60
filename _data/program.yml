@@ -1,7 +1,7 @@
 days:
 - name: Saturday
   abbr: Saturday
-  date: 2026-11-29
+  date: 2026-11-28
   rooms:
   - name: CB 132
     talks:
